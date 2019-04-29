@@ -2,6 +2,8 @@
 
 An API/Server for Elixir projects that provides context-aware information for code completion, documentation, go/jump to definition, signature info and more.
 
+### **Note:** This project has been moved to https://github.com/elixir-lsp/elixir_sense. Any issue/PR should be submitted to the new repo.
+
 ## Usage
 
 ```
